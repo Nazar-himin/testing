@@ -28,6 +28,6 @@ footer .footer_father_class {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: #fff;
+    background: rgb(255, 255, 255);
     color: #000;
 }
